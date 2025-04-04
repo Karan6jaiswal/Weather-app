@@ -4,12 +4,17 @@ A simple and elegant weather app that provides real-time weather updates based o
 ### Homepage  
 ![Homepage](https://github.com/Karan6jaiswal/Weather-app/blob/main/screenshots/Screenshot%20(89).png)
 
-#### Search Example  
+### Search Example  
 ![Search Example](https://github.com/Karan6jaiswal/Weather-app/blob/main/screenshots/Screenshot%20(90).png)
 
-#### Weather Display  
+### Weather Display  
 ![Weather Display](https://github.com/Karan6jaiswal/Weather-app/blob/main/screenshots/Screenshot%20(91).png)
  	 	 
+________________________________________
+
+### 🔗 Live Demo  
+[Click here to try the Weather App 🌦️](https://weather-app-by-karan.netlify.app)
+
 ________________________________________
 🚀 Features
 •	Real-time Weather Data – Fetches live weather updates for any city.
