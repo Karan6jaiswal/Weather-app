@@ -13,7 +13,7 @@ A simple and elegant weather app that provides real-time weather updates based o
 ________________________________________
 
 ### 🔗 Live Demo  
-[Click here to try the Weather App 🌦️](https://weather-app-by-karan.netlify.app)
+[Click here to try the Weather App 🌦️](https://web-weatherapplication.netlify.app)
 
 ________________________________________
 🚀 Features
